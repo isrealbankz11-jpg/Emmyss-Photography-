@@ -1,0 +1,6 @@
+{
+  "name": "EMMYSS Photography",
+  "description": "Summer Portrait Deals by EMMYSS: Shoot. Create. Inspire. Professional portraits, birthday, graduation, family, couples, and personal branding sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
